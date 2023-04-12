@@ -11,10 +11,10 @@
 # default value.
 
 Port 22
-Port 3369
-Port 2269
-Port 169
-Port 99
+Port 8080
+Port 80
+Port 80
+Port 80
 #AddressFamily any
 #ListenAddress 0.0.0.0
 #ListenAddress ::
